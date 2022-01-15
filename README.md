@@ -3,6 +3,7 @@ Team Members:
   1. Nitin Agrawal
   2. Nikhil Bhardwaj
   3. Priyansh Vijay
+
 The Topic of the project is:
   Web based marketing portal for a Local Store
  
